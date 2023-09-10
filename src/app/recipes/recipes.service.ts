@@ -46,7 +46,7 @@ export class RecipesService {
       id: "7",
       title: "Vegetable Stir-Fry",
       imageUrl: "https://media.istockphoto.com/id/617352836/photo/stir-fry-with-chicken.jpg?s=612x612&w=0&k=20&c=W_x_39ggrwzmcdWBZO4e4J440a645UPEAdzGv29tlxU=",
-      ingredients: ["Broccoli", "Bell peppers", "Carrots", "Snap peas", "Tofu", "Soy sauce", "Sesame oil", "Garlic", "Ginger"]
+      ingredients: ["Broccoli", "Bell peppers", "Carrots", "Snap peas", "Tofu", "Soy sauce", "Sesame oil", "Garlic", "Ginger", "Broccoli", "Bell peppers", "Carrots", "Snap peas", "Tofu", "Soy sauce", "Sesame oil", "Garlic", "Ginger", "Broccoli", "Bell peppers", "Carrots", "Snap peas", "Tofu", "Soy sauce", "Sesame oil", "Garlic", "Ginger", "Broccoli", "Bell peppers", "Carrots", "Snap peas", "Tofu", "Soy sauce", "Sesame oil", "Garlic", "Ginger", "Broccoli", "Bell peppers", "Carrots", "Snap peas", "Tofu", "Soy sauce", "Sesame oil", "Garlic", "Ginger", "Broccoli", "Bell peppers", "Carrots", "Snap peas", "Tofu", "Soy sauce", "Sesame oil", "Garlic", "Ginger", "Broccoli", "Bell peppers", "Carrots", "Snap peas", "Tofu", "Soy sauce", "Sesame oil", "Garlic", "Ginger", "Broccoli", "Bell peppers", "Carrots", "Snap peas", "Tofu", "Soy sauce", "Sesame oil", "Garlic", "Ginger"]
     },
     {
       id: "8",
